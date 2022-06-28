@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<img src="https://pbs.twimg.com/profile_banners/795832154/1398676708/1500x500" width="100%" alt="Full Stack Developer – Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud - Paris, France 🇫🇷">
+<img src="https://pbs.twimg.com/profile_banners/795832154/1398676708/1500x500" width="100%" alt="Full Stack Developer - Web App Architect - Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud, NLP (Natural Language Processing) - Paris, France 🇫🇷">
 
 # JV conseil – Internet Consulting 👨‍💻 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="right">-->
 <!-- markdownlint-enable -->
@@ -13,7 +13,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 [![Follow JV conseil – Internet Consulting on Twitter](https://img.shields.io/twitter/follow/JVconseil.svg?style=social&logo=twitter)](https://twitter.com/JVconseil)
 
-Full Stack Developer – Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud
+Full Stack Developer - Web App Architect - Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud, NLP (Natural Language Processing)
 
 Greater Paris Metropolitan Region, France 🇫🇷
 
