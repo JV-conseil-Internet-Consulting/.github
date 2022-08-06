@@ -25,4 +25,6 @@ Greater Paris Metropolitan Region, France 🇫🇷
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+<a href="http://www.jv-conseil.net" target="_blank"><img src="https://user-images.githubusercontent.com/8126807/183259498-fc8aa360-60ed-4579-ad2b-168c5a1adc37.svg" width="500px" alt="JV CONSEIL – INTERNET CONSULTING • 2 rue de la Grande Pièce, 78860 Saint Nom-la-Bretèche, France • +33.134621723 • contact@jv-conseil.net"></a>
 -->
