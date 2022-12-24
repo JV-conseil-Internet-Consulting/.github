@@ -4,9 +4,9 @@
 # JV conseil – Internet Consulting 👨‍💻 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="right">-->
 <!-- markdownlint-enable -->
 
-[![Django 4.0.4](https://img.shields.io/badge/Django-4.0.4-green)](https://docs.djangoproject.com/en/4.0/releases/4.0.4/)
-[![PostgreSQL 13.4](https://img.shields.io/badge/PostgreSQL-13.4-green.svg)](https://www.postgresql.org/docs/13/)
-[![Python 3.9.12](https://img.shields.io/badge/Python-3.9.12-green)](https://www.python.org/downloads/release/python-3910/)
+[![Django 4](https://img.shields.io/badge/Django-4-green)](https://docs.djangoproject.com/en/4.0/releases/4.1.4/)
+[![PostgreSQL 15](https://img.shields.io/badge/PostgreSQL-15-green.svg)](https://www.postgresql.org/docs/15/)
+[![Python 3.11](https://img.shields.io/badge/Python-3.11-green)](https://www.python.org/downloads/release/python-3110/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
