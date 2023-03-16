@@ -23,7 +23,7 @@
 
 Full Stack Developer • Web App Architect
 <br>
-Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud, NLP (Natural Language Processing)
+Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud, NLP (Natural Language Processing), ETL Developer (Extract, Transform, Load).
 
 Greater Paris Metropolitan Region, France 🇫🇷
 
