@@ -19,17 +19,17 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 
 <a href="https://stackoverflow.com/users/2477854/jv-conseil"><img src="https://stackoverflow.com/users/flair/2477854.png?theme=dark" width="208" height="58" alt="profile for JV conseil at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JV conseil at Stack Overflow, Q&amp;A for professional and enthusiast programmers" align="right"></a>
--->
-
-Full Stack Developer • Web App Architect
-<br>
-Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud, NLP (Natural Language Processing), ETL Developer (Extract, Transform, Load).
-
-Greater Paris Metropolitan Region, France 🇫🇷
 
 [PostgreSQL Cheat Sheet][PostgreSQL Cheat Sheet]
 &nbsp;•&nbsp;
 [Git Cheat Sheet][Git Cheat Sheet]
+-->
+
+Full Stack Developer • Web App Architect
+<br>
+_Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud, NLP (Natural Language Processing), ETL Developer (Extract, Transform, Load)_
+
+Greater Paris Metropolitan Region, France 🇫🇷
 
 <!--
 **JV-conseil/JV-conseil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
