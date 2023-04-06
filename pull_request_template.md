@@ -1,12 +1,3 @@
----
-name: Dev branch
-about: Pull request from dev branch
-title: Pull request from dev branch
-# labels:
-assignees: "JV-conseil"
-reviewers: "JV-conseil"
----
-
 # Pull Request Check List
 
 Resolves: #issue-number-here
