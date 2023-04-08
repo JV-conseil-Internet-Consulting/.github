@@ -31,6 +31,8 @@ _Python 🐍 Django • PostgreSQL 🐘 JavaScript • Node.js • Azure Cloud �
 
 Greater Paris Metropolitan Region, France 🇫🇷
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil-Internet-Consulting..github)
+
 <!--
 **JV-conseil/JV-conseil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
