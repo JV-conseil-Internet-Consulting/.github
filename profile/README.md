@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<img src="https://user-images.githubusercontent.com/8126807/179803740-189004f1-938a-4834-a144-52a9d7a7988c.png" width="100%" alt="Full Stack Developer - Web App Architect - Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud, NLP (Natural Language Processing) - Paris, France 🇫🇷">
+<img src="https://user-images.githubusercontent.com/8126807/179803740-189004f1-938a-4834-a144-52a9d7a7988c.png" width="100%" alt="DevOps • Full Stack Developer • Web App Architect • Python 🐍 Django • PostgreSQL 🐘 JavaScript • Node.js • Azure Cloud ☁️ NLP (Natural Language Processing) • ETL Developer (Extract, Transform, Load)">
 
 # JV conseil – Internet Consulting 👨‍💻 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="right">-->
 
@@ -25,7 +25,7 @@
 [Git Cheat Sheet][Git Cheat Sheet]
 -->
 
-Full Stack Developer • Web App Architect
+DevOps • Full Stack Developer • Web App Architect
 
 _Python 🐍 Django • PostgreSQL 🐘 JavaScript • Node.js • Azure Cloud ☁️ NLP (Natural Language Processing) • ETL Developer (Extract, Transform, Load)_
 
