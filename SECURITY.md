@@ -15,4 +15,4 @@ Once you’ve submitted an issue via email, you should receive an acknowledgment
 <!-- links -->
 
 [jv-conseil@proton.me]: <mailto:jv-conseil@proton.me?subject=%5BSECURITY%20REPORT%5D%20Issue%20description...>
-[PGP public key :key:]: <./publickey.jv-conseil%40proton.me-58e3b2ceb20369bdaec0d106a12fedf3481a6b1f.asc>
+[PGP public key :key:]: <https://github.com/JV-conseil/.github/blob/main/publickey.jv-conseil%40proton.me-58e3b2ceb20369bdaec0d106a12fedf3481a6b1f.asc>
