@@ -10,7 +10,7 @@ Mail sent to **[jv-conseil@proton.me]** can be **encrypted :lock_with_ink_pen:**
 
 Once you’ve submitted an issue via email, you should receive an acknowledgment from us, and depending on the action to be taken, you may receive further followup emails.
 
-:thought_balloon: _Inspired by and freely adapted from [Django’s security policies](https://www.djangoproject.com/security)_
+:thought_balloon: _Inspired by and freely adapted from [Django’s security policies](https://www.djangoproject.com/security)._
 
 <!-- links -->
 
